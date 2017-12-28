@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/pigalle-io/pigalle.core.base.error/issues"
   },
-  "homepage": "https://github.com/pigalle-io/pigalle.core.base.error#readme"
+  "homepage": "https://github.com/pigalle-io/pigalle.core.base.error#readme",
+  "dependencies": {
+    "es6-error": "^4.0.2"
+  }
 }
