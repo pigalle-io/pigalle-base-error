@@ -1,0 +1,27 @@
+{
+  "name": "pigalle.core.base.error",
+  "version": "0.1.0-alpha1",
+  "description": "Base class for exceptions raised by the Pigalle framework. ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pigalle-io/pigalle.core.base.error.git"
+  },
+  "keywords": [
+    "pigalle.io",
+    "pigalle",
+    "exception",
+    "error",
+    "handling",
+    "es6"
+  ],
+  "author": "SAS 9 Février <contact@9fevrier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pigalle-io/pigalle.core.base.error/issues"
+  },
+  "homepage": "https://github.com/pigalle-io/pigalle.core.base.error#readme"
+}
