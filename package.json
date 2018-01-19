@@ -1,5 +1,5 @@
 {
-  "name": "pigalle.core.base.error",
+  "name": "@pigalle/core.base.error",
   "version": "0.1.0-alpha1",
   "description": "Base class for exceptions raised by the Pigalle framework. ",
   "main": "src/index.js",
