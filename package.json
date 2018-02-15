@@ -2,7 +2,7 @@
   "name": "@pigalle/core.base.error",
   "version": "0.1.0-alpha1",
   "description": "Base class for exceptions raised by the Pigalle framework. ",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "npm test"
   },
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/pigalle-io/pigalle.core.base.error#readme",
   "dependencies": {
-    "es6-error": "^4.0.2"
+    "es6-error": "^4.1.1"
   }
 }
