@@ -57,6 +57,13 @@ typings/
 # dotenv environment variables file
 .env
 
-# Jetbrains Idea & Webstorms files
-.idea/
+# Idea/Webstorm/PyCharm files
 *.iml
+.idea/
+
+# Build directory
+.build/
+
+# Coveralls
+.coveralls.yml
+
