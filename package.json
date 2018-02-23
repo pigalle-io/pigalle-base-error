@@ -1,6 +1,6 @@
 {
   "name": "@pigalle/core.base.error",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A base class to defined custom exceptions raisable by the Pigalle framework.",
   "main": "lib/error-base.js",
   "scripts": {
