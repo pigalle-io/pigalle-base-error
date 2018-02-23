@@ -27,7 +27,7 @@ describe('Create a instance of {ErrorBase} using <new> keyword', () => {
   })
 
   it('should be an instance of {ErrorBase}', () => {
-    (new ErrorBase).should.be.an.instanceOf(ErrorBase)
+    (new ErrorBase()).should.be.an.instanceOf(ErrorBase)
   })
 })
 
@@ -47,7 +47,7 @@ describe('Create a instance of a derived class from {ErrorBase} using <new> keyw
   })
 
   it('should be an instance of {ErrorBase}', () => {
-    (new ErrorChild).should.be.an.instanceOf(ErrorBase)
+    (new ErrorChild()).should.be.an.instanceOf(ErrorBase)
   })
 })
 
